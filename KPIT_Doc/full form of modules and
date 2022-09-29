@@ -1,0 +1,62 @@
+AUTOSAR		AUTomotive Open System Architecture
+BSM			"Bus Sleep Mode"
+BSW			Basic Software
+BswM		Bsw Mode Manager
+CDD			Complex Device Driver
+CPLD		Complex Programmable Logic Device
+DEM			Diagnostic Event Manager
+DET			Development Error Tracer
+DIO			Digital Input Output
+EcuM		Ecu State Manager
+ECU			Electronic Control Unit
+FEE			"Flash EEPROM Emulation"
+FIM			Function Inhibition Manager
+FLS			Flash Driver
+ID			Identifier
+IO			Input/Output
+MCAL		Micro Controller Abstraction Layer
+MCU			Micro Controller Unit
+OS			Operating System
+RTE			RunTime Environment
+Sr. No.		Serial Number
+SPI			Serial Peripheral Interface
+SRS			Software Requirement Specification     
+SWC			Software Component
+SWS			Software Specification
+TC			Test Case
+WDGM		Watchdog Manager
+WDGIF		Watchdog Interface
+WDG			Watchdog Timer
+
+
+ 
+ACRONYMS, ABBREVIATIONS, AND DEFINITIONS
+
+
+
+Term       	Definition
+CCB		Change Control Board
+CM		Configuration Manager
+DVD		Digital Versatile Disk
+ECN		Engineering Change Notice
+ECO		Engineering Change Order
+GB		Giga Bytes
+IAR		Impact Analysis Report
+PAR		Process Activity Report
+PC		Process Consultant
+PEG		Process Excellence Group
+Phoenix	KPIT Process Assets Repository
+PL		Project Leader
+PM		Project Manager
+PPPD	Policies, Procedure and Practices Document
+PST/*.pst	Outlook Personal Folder File
+SAR		Screen Activity Report
+SCR		Software Change Request
+STL		Screen Team Leader
+SVN		Subversion Configuration management System
+URL		Useful Resource Library
+
+
+
+
+

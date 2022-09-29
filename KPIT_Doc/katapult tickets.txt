@@ -1,0 +1,22 @@
+katapult support public:
+https://kap.kpit.com/redmine/projects/katapult-support-public/issues/new
+
+katapult deviation issues:
+https://kap.kpit.com/redmine/projects/katapult-deviations/issues/new
+
+katapult parameters info:
+https://kquest.kpit.com/kquest/projects/katapult/wiki/Lizard
+
+()()()()()()()()()()()(()()()()()()
+
+
+M2?????????????????
+M2 change the % duplication  : https://kap.kpit.com/redmine/issues/1657358
+Deactivate M2_QM2QM Modules >> https://kap.kpit.com/redmine/issues/1659848
+Configuration of a new M2 project on Katapult : https://kap.kpit.com/redmine/issues/1662393
+
+M3???????????
+M3_New_Project_Configuration on Katapult >>https://kap.kpit.com/redmine/issues/1611557
+M3 change the % duplication : https://kap.kpit.com/redmine/issues/1657357
+
+

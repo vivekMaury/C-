@@ -1,0 +1,27 @@
+Prerequisite >>need to installed GHS compiler for Eaton project
+
+step : 1
+Project Build >> Batchfiles >> inverter_clean & inverter_clean_BL
+
+after clean file run
+output >> Executable >> Hex file  & other file will be clean 
+
+Step : 2
+after clean Hex file & and other 
+
+Project Build >> Batchfiles >>inverter_build & inverter_build_BL
+ after run inverter_build & inverter_build_BL
+ 
+ Hex file & other file will be generate in output >> Executable >> hex file & .....
+
+step 3
+ download Hex file from git 
+ 
+step 4
+ using beyound comapre tool 
+ 
+ comapre downloaded stack hex with generated hex file
+
+
+
+

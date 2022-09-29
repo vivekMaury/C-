@@ -1,0 +1,42 @@
+permanent settings
+
+QAC folder
+
+BSW_and_TestCode/m3_dc_vc3_qm2qm/ASW_Modules
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/BSW
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/APPLI
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Diagnostic
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Driver-CAN
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Interaction
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Manager-CAN
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-OS
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Reseau
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/COM-Surveillance
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDEH
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/Services
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/Include
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/LightDCMRsp
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/LightDCMSrvc
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/LightDCMStatesMgt
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/mak
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/MCAL
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/CDD/Eaton_Htpwm
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/CDD/DMA_ADC
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/GenData
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Project_Build
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Configuration
+BSW_and_TestCode/m3_dc_vc3_qm2qm/LIB
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Output
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Output_BL
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Test_App
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Stubs/Wrappers/EatonWrapper
+
+QAC files :
+
+BSW_and_TestCode/m3_dc_vc3_qm2qm/LIB/Generic_RH850E2M/generic/inc/dr7f702002_0.h
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Stubs/Wrappers/KPITWrapper/src/BootloaderResetMonitoring.c
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Stubs/Wrappers/KPITWrapper/inc/BootloaderResetMonitoring.h
+BSW_and_TestCode/m3_dc_vc3_qm2qm/BSW_Modules/Drivers/LGM/LDCM/LightDCMAutosarInterface/LATI_ControlDTCSettingARWrapper.c
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Stubs/Wrappers/KPITWrapper/src/Sw_Versions.c
+BSW_and_TestCode/m3_dc_vc3_qm2qm/Stubs/Wrappers/KPITWrapper/inc/Sw_Versions.h
+

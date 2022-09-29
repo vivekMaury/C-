@@ -1,0 +1,110 @@
+katapult support public:
+
+https://kap.kpit.com/redmine/projects/katapult-support-public/issues/new
+
+
+katapult deviation issues:
+
+https://kap.kpit.com/redmine/projects/katapult-deviations/issues/new
+
+
+katapult parameters info:
+
+https://kquest.kpit.com/kquest/projects/katapult/wiki/Lizard
+
+*******************************************************************************************************
+************************Katapult_M2_Tickets************************************************************
+*******************************************************************************************************
+
+1) PCCR to NA for VC0 -> https://kap.kpit.com/redmine/issues/1234317
+2) New_Module_and_yml_integration -> https://kap.kpit.com/redmine/issues/1235981
+3) Polyspace_Medium_Defects_Line_No's_Through_GUI -> https://kap.kpit.com/redmine/issues/1258522
+4) PCCR to NA for VC1.R1 ->https://kap.kpit.com/redmine/issues/1258547
+5) UT Pass threshold change ticket  for MM update module-> https://kap.kpit.com/redmine/issues/1265623
+6) Phase 2 para config for VC0 -> https://kap.kpit.com/redmine/issues/1268421
+7) Deviation ticket refeence for VC1.R1 phase 2 para -> https://kap.kpit.com/redmine/issues/1275998
+8) VC0 deleloper report generation issue : https://kap.kpit.com/redmine/issues/1307549...(14/10/2021)
+9) LIZARD_Tool_Integration on dummy branch  -> https://kap.kpit.com/redmine/issues/1311275
+10) Polyspace_Report_Generation_Issue VC1.R1-> https://kap.kpit.com/redmine/issues/1338513
+11) Polyspace_Report_Generation_Issue VC1.R1 -> https://kap.kpit.com/redmine/issues/1353923
+12) Poly High defects line No -> https://kap.kpit.com/redmine/issues/1338649
+13) QAC_Report_Generation_Issue for VC1 -> https://kap.kpit.com/redmine/issues/1362275
+14 ) Phase 2 para config for VC1 ->https://kap.kpit.com/redmine/issues/1375907
+15) QAC license issue : https://kap.kpit.com/redmine/issues/1463168
+16) R2021b to be installed on M2 dummy branch : https://kap.kpit.com/redmine/issues/1483013
+
+17) %Comment KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487075
+18) %Duplication KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487078
+19) Code Violation KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487079
+20) Max Complexity KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487084
+21) Poly Red Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487086
+22) Poly Orange Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487088
+23) Poly Grey Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1487092
+24) Module Integration on M2 Dummy Branch -> https://kap.kpit.com/redmine/issues/1493870
+
+
+************************Katapult_M3_Tickets************************************************************
+
+1) PCCR to NA for VC2.0a -> https://kap.kpit.com/redmine/issues/1234318
+
+2) Katapult_Parameters_To_Be_Kept_As_NA_for_Dummy_Branches -> https://kap.kpit.com/redmine/issues/1236988
+
+3) Change of % duplication threshold for M2/M3 milestone -> https://kap.kpit.com/redmine/issues/1241313
+
+4) Polyspace_Medium_Defects_Line_No's_Through_GUI ->https://kap.kpit.com/redmine/issues/1256751
+
+5) PCCR to NA for VC2.0b -> https://kap.kpit.com/redmine/issues/1258549
+
+6) SW Test Pass % and % Requirements Covered Configuration for VC2.0a -> https://kap.kpit.com/redmine/issues/1258560
+
+7) Deviation ticket refeence for VC2.0b phase 2 para -> https://kap.kpit.com/redmine/issues/1275983
+
+8) Developer_Report_Generation_Issue -> https://kap.kpit.com/redmine/issues/1290394 (with CERT enable on whole stack)
+9) Developer_Report_Generation_Issue -> https://kap.kpit.com/redmine/issues/1310490 (with CERT disabled on whole stack)
+10) LIZARD_Tool_Integration on dummy branch -> https://kap.kpit.com/redmine/issues/1311271
+11) QAC Analysis Failing For VC2.0b -> https://kap.kpit.com/redmine/issues/1312187
+12) Phase 2 para config for VC2.0b BSW_02->https://kap.kpit.com/redmine/issues/1329863
+13) VC2C project config from katapult end -> https://kap.kpit.com/redmine/issues/1348707
+14) PCCR to NA for VC2C -> https://kap.kpit.com/redmine/issues/1351217
+15) Change of % duplication threshold for VC2C -> https://kap.kpit.com/redmine/issues/1351240
+16) Polyspace_Report_Generation_Issue VC2C -> https://kap.kpit.com/redmine/issues/1353923
+17) Poly High defects line No -> https://kap.kpit.com/redmine/issues/1338648
+18) QAC dedicated server-> https://kap.kpit.com/redmine/issues/1362049
+19) Phase 2 para config for VC2C ->https://kap.kpit.com/redmine/issues/1365508
+20) Developer report generation issue on M3 Vc2.0b stack full scope: https://kap.kpit.com/redmine/issues/1381263
+21) VC3QM2QM project config from katapult end -> https://kap.kpit.com/redmine/issues/1388786
+22) Change of % duplication threshold for VC3QM2QM -> https://kap.kpit.com/redmine/issues/1390929
+23)  PCCR to NA for VC3QM2QM -> https://kap.kpit.com/redmine/issues/1390936
+24) VC3 project config from katapult end -> https://kap.kpit.com/redmine/issues/1400420
+25) PCCR to NA for VC3 -> https://kap.kpit.com/redmine/issues/1400431 (new ticket : https://kap.kpit.com/redmine/issues/1431641)
+26) Change of % duplication threshold for VC3 -> https://kap.kpit.com/redmine/issues/1400433
+27) QAC analysis failing for all milestones -> https://kap.kpit.com/redmine/issues/1416927
+28) VC3_IR1 project config from katapult end -> https://kap.kpit.com/redmine/issues/1418063
+29) PCCR to NA for VC3_IR1 -> https://kap.kpit.com/redmine/issues/1418067
+30) Developer report generation issue (QM and IR1) -> https://kap.kpit.com/redmine/issues/1421655
+31) Change of % duplication threshold for VC3 IR1 -> https://kap.kpit.com/redmine/issues/1418168
+32) QAC license failure -> https://kap.kpit.com/redmine/issues/1435766
+33)  PCCR to NA for VC3_IR2 -> https://kap.kpit.com/redmine/issues/1446659
+34) Change of % duplication threshold for VC3_IR2 -> https://kap.kpit.com/redmine/issues/1446661
+35) VC3_IR2 project config from katapult end -> https://kap.kpit.com/redmine/issues/1446663
+36) Polyspace R2021b To Be Installed On M3 Dummy Branch ->https://kap.kpit.com/redmine/issues/1450859
+37) QAC Job Failure : https://kap.kpit.com/redmine/issues/1459148
+38) ND Is Updated for Code Violations For M3_VC3_IR2 -> https://kap.kpit.com/redmine/issues/1468344 
+39) Phase 2 parameter config -> https://kap.kpit.com/redmine/issues/1478293
+
+40) %Comment KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484558
+41) %Duplication KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484568
+42) Code Violation KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484572
+43) Max Complexity KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484576
+44) Poly Red Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484583
+45) Poly Orange Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484585
+46) Poly Grey Checks KPI To Make As Applicable -> https://kap.kpit.com/redmine/issues/1484587
+
+47) Module Integration on M3 Dummy Branch -> https://kap.kpit.com/redmine/issues/1493868
+48) Polyspace R2019b To Be Installed On M3 Dummy Branch -> https://kap.kpit.com/redmine/issues/1494895
+49) MISRA rules 9.5 and 15.2 to be enabled -> https://kap.kpit.com/redmine/issues/1498382
+50) Need line no on LGM polyspace Issue -> https://kap.kpit.com/redmine/issues/1499397
+51) Checkers all option to be disabled in polyspace -> https://kap.kpit.com/redmine/issues/1518703
+52) phase 2 parameter config for IR2 -> https://kap.kpit.com/redmine/issues/1523047
+
+

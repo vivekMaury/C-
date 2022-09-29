@@ -1,0 +1,18 @@
+pc make release note 
+docum
+hotfix pr
+development  CR change request
+
+
+GET /projects/:11290/members
+
+https://gitlab.kpit.com/epowertrain/inverter_projects/m2_vf_dc-0b
+
+
+Curl command can run in git bash 
+
+
+curl --header "PRIVATE-TOKEN: 6L8yoLR8Exp2AptwspgB" "https://gitlab.kpit.com/epowertrain/inverter_projects/m2_vf_dc-0b/api/v4/projects/:7672/members"
+
+this is working command  curl --header "PRIVATE-TOKEN: 6L8yoLR8Exp2AptwspgB" "https://gitlab.kpit.com/api/v4/projects/7672/members"
+

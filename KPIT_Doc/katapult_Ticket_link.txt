@@ -1,0 +1,26 @@
+https://kap.kpit.com/redmine/projects/katapult-deviations?jump=welcome
+
+For raise a new ticket 
+https://kap.kpit.com/redmine/projects/katapult-support-public
+
+For change the threshold/kpi/data
+https://kap.kpit.com/redmine/projects/katapult-deviations/issues/new
+
+
+M2 Project 
+
+
+Need to add new project in Katapult dashboard >> https://kap.kpit.com/redmine/issues/1548377
+M2_New_Project_Configuration >>   https://kap.kpit.com/redmine/issues/1552729
+Need to change OR code in VC3QM2QM, M3_VC3_IR2 module>> https://kap.kpit.com/redmine/issues/1555782
+QAC_Polyspace pipeline failed>> https://kap.kpit.com/redmine/issues/1566512
+Error in QAC files	>>https://kap.kpit.com/redmine/issues/1589962    //date 20/05/2022
+Need to change OR code for M2 Katapult modules>>   https://kap.kpit.com/redmine/issues/1593814
+Need to change OR code for M3 Katapult modules>>> https://kap.kpit.com/redmine/issues/1593816
+New_Project_Configuration QM2QM_sefty   https://kap.kpit.com/redmine/issues/1596403
+onfigure UT Pass %, % Coverage, SW Test Pass % for M3>> https://kap.kpit.com/redmine/issues/1600223
+configure UT Pass %, % Coverage, SW Test Pass % For M2 >> https://kap.kpit.com/redmine/issues/1605652
+M3_New_Project_Configuration on Katapult >>  https://kap.kpit.com/redmine/issues/1611557
+configure UT Pass %, % Coverage, SW Test Pass % for M3_vc4>> https://kap.kpit.com/redmine/issues/1623974
+For deactivate some M2 module: https://kap.kpit.com/redmine/issues/1623281 
+Need to change OR code for M2 Katapult modules>> https://kap.kpit.com/redmine/issues/1646464
